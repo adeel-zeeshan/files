@@ -13,14 +13,16 @@
 							"uid": 1,
 							"profile": "https://www.facebook.com/profile.php?id=100015360259093",
 							"name": "Kareem Daad",
-							"location": "",
+							"location": "karachi",
 							"id": "100015360259093",
 							"friend_count": 111,
 							"type": 1,
 							"status_count": 0,
 							"follower_count": 0,
 							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p160x160/16998194_130835714105103_7179858886157095964_n.jpg?oh=1e3bb219acf916516691a99365f5601a&oe=5AABEC38",
-							"tags": ""
+							"tags": "",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -32,13 +34,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -62,14 +66,16 @@
 							"uid": 1,
 							"profile": "https://www.facebook.com/BalochRizwaan",
 							"name": "Rizwan Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "BalochRizwaan",
 							"friend_count": 0,
 							"type": 1,
 							"status_count": 0,
 							"follower_count": 0,
 							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/22730144_317668788641700_819575498253255941_n.jpg?oh=8fbadb8f41fc04ec25b1acc1ca52bc3f&oe=5A7777AE",
-							"tags": ""
+							"tags": "",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -81,13 +87,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -111,13 +119,15 @@
 							"uid": 10,
 							"profile": "http://www.facebook.com/behroz.buland.1",
 							"name": "Behroz Buland",
-							"location": "",
+							"location": "islamabad",
 							"id": "behroz.buland.1",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/32973600_227397894694366_9073739374876688384_n.jpg?_nc_cat=0&oh=2aecfdc0e2bcf676741b0e4bbba492d1&oe=5BB48236"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/32973600_227397894694366_9073739374876688384_n.jpg?_nc_cat=0&oh=2aecfdc0e2bcf676741b0e4bbba492d1&oe=5BB48236",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -129,13 +139,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -159,13 +171,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/arman.baloch9kan",
 							"name": "Imran Mengal",
-							"location": "",
+							"location": "mardan",
 							"id": "arman.baloch9kan",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/29473183_102311290615126_6851164507243282432_n.jpg?_nc_cat=0&oh=ce30d50b5f8284f7b17cf6b5cdc492f5&oe=5BC11942"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/29473183_102311290615126_6851164507243282432_n.jpg?_nc_cat=0&oh=ce30d50b5f8284f7b17cf6b5cdc492f5&oe=5BC11942",
+							"work": "ijezz",
+							"edu": "mba"
 						}
 					},
 					{
@@ -177,13 +191,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -207,13 +223,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -225,13 +243,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -255,13 +275,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "karachi",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -273,13 +295,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -303,13 +327,15 @@
 							"uid": 101,
 							"profile": "https://facebook.com/sherak.baloch.737",
 							"name": "Sherak Baloch",
-							"location": "",
+							"location": "lahore",
 							"id": "sherak.baloch.737",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -321,13 +347,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -351,13 +379,15 @@
 							"uid": 101,
 							"profile": "https://facebook.com/sherak.baloch.737",
 							"name": "Sherak Baloch",
-							"location": "",
+							"location": "peshawar",
 							"id": "sherak.baloch.737",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -369,13 +399,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -399,13 +431,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "peshawar",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -417,13 +451,15 @@
 							"uid": 7,
 							"profile": "https://facebook.com/sherak.baloch.737",
 							"name": "Sherak Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "sherak.baloch.737",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -447,13 +483,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "lahore",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -465,13 +503,15 @@
 							"uid": 7,
 							"profile": "https://facebook.com/sherak.baloch.737",
 							"name": "Sherak Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "sherak.baloch.737",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -495,13 +535,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -513,13 +555,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -543,13 +587,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "lahore",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -561,13 +607,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -591,13 +639,15 @@
 							"uid": 103,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "peshawar",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -609,13 +659,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -639,13 +691,15 @@
 							"uid": 103,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "peshawar",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -657,13 +711,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -687,13 +743,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "lahore",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -705,13 +763,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -735,13 +795,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "mardan",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "ijezz",
+							"edu": "mba"
 						}
 					},
 					{
@@ -753,13 +815,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -783,13 +847,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -801,13 +867,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -831,13 +899,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "mardan",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "ijezz",
+							"edu": "mba"
 						}
 					},
 					{
@@ -849,13 +919,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -879,13 +951,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "lahore",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -897,13 +971,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -927,13 +1003,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "karachi",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -945,13 +1023,15 @@
 							"uid": 101,
 							"profile": "https://facebook.com/sherak.baloch.737",
 							"name": "Sherak Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "sherak.baloch.737",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -975,13 +1055,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "peshawar",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -993,13 +1075,15 @@
 							"uid": 7,
 							"profile": "https://facebook.com/sherak.baloch.737",
 							"name": "Sherak Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "sherak.baloch.737",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1023,13 +1107,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "karachi",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -1041,13 +1127,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1071,13 +1159,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "mardan",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "ijezz",
+							"edu": "mba"
 						}
 					},
 					{
@@ -1089,13 +1179,15 @@
 							"uid": 103,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1119,13 +1211,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "lahore",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -1137,13 +1231,15 @@
 							"uid": 103,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1167,13 +1263,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -1185,13 +1283,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1215,13 +1315,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "peshawar",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -1233,13 +1335,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1263,13 +1367,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -1281,13 +1387,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1311,13 +1419,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "peshawar",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -1329,13 +1439,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1359,13 +1471,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "karachi",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -1377,13 +1491,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1407,13 +1523,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "karachi",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -1425,13 +1543,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1455,13 +1575,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "lahore",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -1473,13 +1595,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1503,13 +1627,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "karachi",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -1521,13 +1647,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1551,14 +1679,16 @@
 							"uid": 1,
 							"profile": "https://www.facebook.com/profile.php?id=100015360259093",
 							"name": "Kareem Daad",
-							"location": "",
+							"location": "islamabad",
 							"id": "100015360259093",
 							"friend_count": 111,
 							"type": 1,
 							"status_count": 0,
 							"follower_count": 0,
 							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p160x160/16998194_130835714105103_7179858886157095964_n.jpg?oh=1e3bb219acf916516691a99365f5601a&oe=5AABEC38",
-							"tags": ""
+							"tags": "",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -1570,13 +1700,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1600,14 +1732,16 @@
 							"uid": 1,
 							"profile": "https://www.facebook.com/BalochRizwaan",
 							"name": "Rizwan Baloch",
-							"location": "",
+							"location": "mardan",
 							"id": "BalochRizwaan",
 							"friend_count": 0,
 							"type": 1,
 							"status_count": 0,
 							"follower_count": 0,
 							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/22730144_317668788641700_819575498253255941_n.jpg?oh=8fbadb8f41fc04ec25b1acc1ca52bc3f&oe=5A7777AE",
-							"tags": ""
+							"tags": "",
+							"work": "ijezz",
+							"edu": "mba"
 						}
 					},
 					{
@@ -1619,13 +1753,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1649,13 +1785,15 @@
 							"uid": 10,
 							"profile": "http://www.facebook.com/behroz.buland.1",
 							"name": "Behroz Buland",
-							"location": "",
+							"location": "karachi",
 							"id": "behroz.buland.1",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/32973600_227397894694366_9073739374876688384_n.jpg?_nc_cat=0&oh=2aecfdc0e2bcf676741b0e4bbba492d1&oe=5BB48236"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/32973600_227397894694366_9073739374876688384_n.jpg?_nc_cat=0&oh=2aecfdc0e2bcf676741b0e4bbba492d1&oe=5BB48236",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -1667,13 +1805,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1697,13 +1837,15 @@
 							"uid": 101,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "mardan",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "ijezz",
+							"edu": "mba"
 						}
 					},
 					{
@@ -1715,13 +1857,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1745,13 +1889,15 @@
 							"uid": 101,
 							"profile": "https://facebook.com/sherak.baloch.737",
 							"name": "Sherak Baloch",
-							"location": "",
+							"location": "karachi",
 							"id": "sherak.baloch.737",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -1763,13 +1909,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1793,13 +1941,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "peshawar",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -1811,13 +1961,15 @@
 							"uid": 7,
 							"profile": "https://facebook.com/sherak.baloch.737",
 							"name": "Sherak Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "sherak.baloch.737",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/46519915_201369784080735_6304872524349964288_n.jpg?_nc_cat=111&_nc_ht=scontent.fisb1-1.fna&oh=54464bfa87b4c7de8bf81d97edc92911&oe=5CA62E88",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1841,13 +1993,15 @@
 							"uid": 7,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "cs"
 						}
 					},
 					{
@@ -1859,13 +2013,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1889,13 +2045,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "lahore",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -1907,13 +2065,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1937,13 +2097,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "peshawar",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "behria",
+							"edu": "english"
 						}
 					},
 					{
@@ -1955,13 +2117,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -1985,13 +2149,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "lahore",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -2003,13 +2169,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -2033,13 +2201,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "karachi",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -2051,13 +2221,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "islamabad",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -2081,13 +2253,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "karachi",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "cardan",
+							"edu": "social"
 						}
 					},
 					{
@@ -2099,13 +2273,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
@@ -2129,13 +2305,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/fatoom.albaloshi.9212",
 							"name": "Fatoom Albaloshi",
-							"location": "",
+							"location": "lahore",
 							"id": "fatoom.albaloshi.9212",
 							"status_count": "0",
 							"type": "1",
 							"friend_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/33345844_107080780180018_6986966489764986880_n.jpg?_nc_cat=0&oh=b4435b74abe73ac212dbc95d1766a5f8&oe=5B765FD5",
+							"work": "axio",
+							"edu": "bba"
 						}
 					},
 					{
@@ -2147,13 +2325,15 @@
 							"uid": 109,
 							"profile": "http://www.facebook.com/jalaal.baloch.50",
 							"name": "Jalaal Baloch",
-							"location": "",
+							"location": "islamabad",
 							"id": "jalaal.baloch.50",
 							"friend_count": "0",
 							"type": "1",
 							"status_count": "0",
 							"follower_count": "0",
-							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442"
+							"picture_link": "https://scontent.fisb1-1.fna.fbcdn.net/v/t1.0-1/p100x100/26220192_128226957979332_6619927243243176827_n.jpg?_nc_cat=0&oh=6c961d12c89fb83129bbca9af7f34634&oe=5B66C442",
+							"work": "dss",
+							"edu": "bba"
 						}
 					}
 				],
