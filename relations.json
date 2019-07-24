@@ -23,7 +23,7 @@
                 }
             }, {
                 "id": "1892803",
-                "labels": ["Target"],
+                "labels": ["Friend"],
                 "properties": {
                     "profile": "https://www.facebook.com/suresh.sehgal.79?fref=pb\u0026__tn__=%2Cd-a-R\u0026eid=ARCBWa7zJk29c4D8o2-XE3fiC_ZY0i9M1fpHzDh8JzuHZE4SucyqLjgB_mLIILOWv7K1r3l8vWS7n2U9\u0026hc_location=profile_browser",
                     "type": "1",
@@ -53,7 +53,7 @@
         "graph": {
             "nodes": [{
                 "id": "1893724",
-                "labels": ["Target"],
+                "labels": ["Friend"],
                 "properties": {
                     "city": "",
                     "work": "U.S. Army",
