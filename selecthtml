@@ -199,7 +199,7 @@ html {
 }
 #overlay {
   position: fixed; /* Sit on top of the page content */
-   display: none; /* Hidden by default */
+   /* display: none; Hidden by default */
   width: 100%; /* Full width (cover the whole page) */
   height: 100%; /* Full height (cover the whole page) */
   top: 0;
@@ -228,11 +228,13 @@ html {
 </style>
 </head>
 <body>
+    {% if data %}
     <div id="overlay">
-      <div class="overlay_text_container">
-          <div class="overlay_text_centered">A Scrapping job is already running.<br>Let it end to start new job</div>
+        <div class="overlay_text_container">
+            <div class="overlay_text_centered">A Scrapping job is already running.<br>Let it end to start new job</div>
+        </div>
       </div>
-    </div>
+    {% endif %}
 	<div class="container">
 		<div class="py-5">
 			<form action="javacsript:void(0)" method="POST">
@@ -337,8 +339,15 @@ html {
         data.list_name =  industries[i].split(" ").join("").split("/").join("").split("&").join("") + countries[i].split(" ").join("");
         criteria.push(data)
       }
-
-      console.log(criteria)
+      $.post('/formData', {criteria}, function(data){
+        if(data == 'True'){
+          $('body').append(`<div id="overlay">
+        <div class="overlay_text_container">
+            <div class="overlay_text_centered">A Scrapping job is already running.<br>Let it end to start new job</div>
+        </div>
+      </div>`);
+        }
+      });
     })
 	})
 	</script>
