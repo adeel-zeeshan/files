@@ -4810,8 +4810,16 @@
         ],
         "flag": [],
         "phones_country": [],
-        "emails": [{icon: "assests/images/hotmail.png", email: "seld@added.org"},
-        {icon: "assests/images/hotmail.png", email: "test1@self.oc"}],
+        "emails": [
+            {
+                "icon": "assests/images/hotmail.png",
+                "email": "test@check.org"
+            },
+            {
+                "icon": "assests/images/hotmail.png",
+                "email": "second@node.co"
+            }
+        ],
         "urls": [],
         "urlsdup": [],
         "timezones": [],
