@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id": "bart@fullcontact.com",
         "TwitterUserNamesList": [],
@@ -1378,7 +1378,7 @@
             "Masters, Business Administration (MBA) from University of Denver - Daniels College of Business (2009-2010)",
             "B.S., Computer Science from University of Colorado at Boulder (1997-2000)"
         ],
-        "addresses": ["Islamabad, PK"],
+        "addresses": [],
         "currentseed": [],
         "dataexperience": [],
         "onlinegroup": [],
@@ -4810,16 +4810,8 @@
         ],
         "flag": [],
         "phones_country": [],
-        "emails": [
-            {
-                "icon": "assests/images/hotmail.png",
-                "email": "test@check.org"
-            },
-            {
-                "icon": "assests/images/hotmail.png",
-                "email": "second@node.co"
-            }
-        ],
+        "emails": [{icon: "assests/images/hotmail.png", email: "seld@added.org"},
+        {icon: "assests/images/hotmail.png", email: "test1@self.oc"}],
         "urls": [],
         "urlsdup": [],
         "timezones": [],
